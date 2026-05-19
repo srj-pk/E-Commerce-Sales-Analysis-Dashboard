@@ -8,7 +8,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOTI0YjE2NzctNDE1Yi00MTlmLWIyYmMtODdjNjg4N
 ![Sales Analysis Preview](/Sales%20Analysis.png)
 ### ℹ️ 2. Vendor Details  
 
-![Info Page Preview](/Vendor%20Detail.png)
+![Info Page Preview](/Vendor%20Details.png)
 
 ## 📌 Project Overview
 
